@@ -1,0 +1,2 @@
+# tirador
+Bala
